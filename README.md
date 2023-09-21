@@ -23,7 +23,7 @@ STEPS:
  *
  * Task 5:
  * create a Overloaded method product of following defination
- * public double product(double x, double y) {}
+ *  public double product(double x, double y) {}
  *
  * call this method also from Main using Product class object p
  *
